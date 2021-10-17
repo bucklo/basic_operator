@@ -14,5 +14,3 @@ while read next; do
     ;;
   esac
 done
-
-
